@@ -1,5 +1,5 @@
 [package]
-name = "space_filling_circles"
+name = "circle_packing"
 version = "0.1.0"
 authors = ["João Delgado <joaomtdelgado@gmail.com>"]
 
